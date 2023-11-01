@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    
+}
+
+input.form-check-input{
+    float: left;
+}
+
+div.item-name {
+    float: middle;
+    text-align: center;
+    flex-wrap: wrap;
+    
+}
+
+button.btn-close {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
